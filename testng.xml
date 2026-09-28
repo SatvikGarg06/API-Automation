@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/satvik/Library/CloudStorage/OneDrive-Personal/Desktop/Java/Automation_Developer/65B_API_Automation_Task/src/test/java/currency">
+        <classes>
+            <class name="currency.TestCurrencyList" />
+            <class name="currency.TestExchangeLists" />
+        </classes>
+    </test>
+</suite>
